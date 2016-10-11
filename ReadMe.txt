@@ -1,0 +1,1 @@
+Funcion que permite al usuario seguir tecleando y agregando a memoria hasta que cierre el programa
